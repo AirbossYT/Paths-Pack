@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Paths Pack</ModName>
+  <ModDiscription>A bunch of different textures for paths</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Paths Pack@Black</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Black</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Blue</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Blue</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Green</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Green</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Orange</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Orange</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Invisible</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Invisible</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Yellow</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Yellow</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@White</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>White</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Red</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Red</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Purple</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Purple</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+  </Objects>
+</Mod>
