@@ -94,9 +94,9 @@
       <shader>Diffuse</shader>
     </Object>
     <Object>
-      <OBJName>Paths Pack@Grass</OBJName>
+      <OBJName>Paths Pack@Dirt</OBJName>
       <Type>PathStyle</Type>
-      <inGameName>Grass</inGameName>
+      <inGameName>Dirt</inGameName>
       <price>0</price>
       <PathStyle>Normal</PathStyle>
       <recolorable>false</recolorable>
