@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 400449958
+CRC: 1266759529
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 29e613c6097fe388d270e48cbb6a69ca
+    Hash: def7ff3f8fb8503ebe93707a07f9bb6f
   TypeTreeHash:
     serializedVersion: 2
     Hash: e6d74f2d6b370c4d26f3cae461538e43
@@ -29,6 +29,7 @@ Assets:
 - Assets/Mods/Paths Pack/Paths Pack@Black.prefab
 - Assets/Mods/Paths Pack/Paths Pack@Blue.prefab
 - Assets/Mods/Paths Pack/Paths Pack@Red.prefab
+- Assets/Mods/Paths Pack/Paths Pack@Dirt.prefab
 - Assets/Mods/Paths Pack/Paths Pack@Purple.prefab
 - Assets/Mods/Paths Pack/Paths Pack@White.prefab
 - Assets/Mods/Paths Pack/Paths Pack@Yellow.prefab
