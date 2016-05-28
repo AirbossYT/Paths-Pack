@@ -111,5 +111,32 @@
       <recolorable>false</recolorable>
       <shader>Diffuse</shader>
     </Object>
+    <Object>
+      <OBJName>Paths Pack@Diamond</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Diamond</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Emerald</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Emerald</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Paths Pack@Gold</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Gold</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
   </Objects>
 </Mod>
