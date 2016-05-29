@@ -1,17 +1,17 @@
-[16-05-28 17:03:21] Info: Compiling Paths Pack to bin/build-160528170321566.dll...
-[16-05-28 17:03:21] Info: Compiling from `ModSparkLoader.csproj`.
-[16-05-28 17:03:21] Info: Resolved assembly reference `Assembly-CSharp` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
-[16-05-28 17:03:21] Info: IGNORING assembly reference `Depender`
-[16-05-28 17:03:21] Info: Resolved assembly reference `System` to `System.dll`
-[16-05-28 17:03:21] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
-[16-05-28 17:03:21] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
-[16-05-28 17:03:21] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
-[16-05-28 17:03:21] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
-[16-05-28 17:03:21] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
-[16-05-28 17:03:21] Info: Resolved assembly reference `UnityEngine` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
-[16-05-28 17:03:21] Info: Resolved assembly reference `UnityEngine.UI` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
-[16-05-28 17:03:21] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `C:\Users\karni\Documents\Parkitect\pnmods\Paths Pack`.
-[16-05-28 17:03:21] Info: Compile using compiler version v3.5.
+[16-05-28 18:39:34] Info: Compiling Paths Pack to bin/build-160528183934731.dll...
+[16-05-28 18:39:34] Info: Compiling from `ModSparkLoader.csproj`.
+[16-05-28 18:39:34] Info: Resolved assembly reference `Assembly-CSharp` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-05-28 18:39:34] Info: IGNORING assembly reference `Depender`
+[16-05-28 18:39:34] Info: Resolved assembly reference `System` to `System.dll`
+[16-05-28 18:39:34] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-05-28 18:39:34] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-05-28 18:39:34] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-05-28 18:39:34] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-05-28 18:39:34] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-05-28 18:39:34] Info: Resolved assembly reference `UnityEngine` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-05-28 18:39:34] Info: Resolved assembly reference `UnityEngine.UI` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-05-28 18:39:34] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `C:\Users\karni\Documents\Parkitect\pnmods\Paths Pack`.
+[16-05-28 18:39:34] Info: Compile using compiler version v3.5.
 [16-05-28 16:01:21] Info: Loaded build-160528160108296, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
 [16-05-28 16:01:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
 [16-05-28 16:15:20] Info: Loaded build-160528161504977, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
@@ -26,3 +26,9 @@
 [16-05-28 17:01:34] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
 [16-05-28 17:03:51] Info: Loaded build-160528170321566, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
 [16-05-28 17:03:51] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-28 17:37:44] Info: Loaded build-160528170321566, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-28 17:37:44] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-28 17:43:21] Info: Loaded build-160528170321566, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-28 17:43:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-28 18:39:48] Info: Loaded build-160528183934731, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-28 18:39:48] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
