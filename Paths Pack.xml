@@ -66,5 +66,14 @@
       <recolorable>false</recolorable>
       <shader>Diffuse</shader>
     </Object>
+    <Object>
+      <OBJName>Paths Pack@Wooden</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Wooden</inGameName>
+      <price>0</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
   </Objects>
 </Mod>
